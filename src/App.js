@@ -1,5 +1,6 @@
 
 import './App.css';
+import CardIguana from './CardIguana';
 import CardMio from './CardMio.js';
 function App() {
   return (
@@ -7,13 +8,15 @@ function App() {
         <h1>Aprendiendo a hacer card</h1>
      
      <div className='Aprendiendo'>
-         <CardMio/>
+      
+         <CardMio className='cardmio'/>
+         <CardIguana className='cardiguana'/>
        </div>
 
 
     </div>
     
-  )
+  );
   
 }
 
