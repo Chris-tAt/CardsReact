@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CardsReact/build/static/css/main.51e308c8.css",
+    "main.js": "/CardsReact/build/static/js/main.efa35b81.js",
+    "static/js/787.83230bd2.chunk.js": "/CardsReact/build/static/js/787.83230bd2.chunk.js",
+    "static/media/iguana.jpg": "/CardsReact/build/static/media/iguana.39b15cb38ab6414b97be.jpg",
+    "static/media/pizza.jpg": "/CardsReact/build/static/media/pizza.a6153cf54e3becef8a5b.jpg",
+    "static/media/PerroMio.jpg": "/CardsReact/build/static/media/PerroMio.8200ad8bda8c90b0a30f.jpg",
+    "static/media/compartir.png": "/CardsReact/build/static/media/compartir.e6522d88e31552c3d9fc.png",
+    "static/media/megusta.png": "/CardsReact/build/static/media/megusta.6dc22afeea1bdc9e9a32.png",
+    "index.html": "/CardsReact/build/index.html",
+    "main.51e308c8.css.map": "/CardsReact/build/static/css/main.51e308c8.css.map",
+    "main.efa35b81.js.map": "/CardsReact/build/static/js/main.efa35b81.js.map",
+    "787.83230bd2.chunk.js.map": "/CardsReact/build/static/js/787.83230bd2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51e308c8.css",
+    "static/js/main.efa35b81.js"
+  ]
+}

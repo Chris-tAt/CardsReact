@@ -18,7 +18,7 @@ import megusta from './megusta.png';
         <img src={pizza} alt='este es el tercer' className='CardFull-img'/>
         <div className='CardFull-content'>
             <p className='CardFull-description'>La pizza vegetariana tiene una importancia significativa tanto desde
-             el punto de vista culinario como desde la perspectiva de la sostenibilidad y la salud.  </p>
+             el punto de vista culinario como desde la perspectiva de la sostenibilidad y la salud.</p>
            <div className='CardFull-Action'>
            <button className="CardFull-button" onClick={handleLike}>
            <img src={megusta} alt="Me gusta" className='CardFull-megusta'/>
